@@ -1,0 +1,15 @@
+{
+  "name": "ar-bot",
+  "version": "1.0.0",
+  "description": "A bot that responds automatically to new messages.",
+  "main": "AR-Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfhx/things/tree/master/AR-Bot"
+  },
+  "author": "DSkull/DifferentSkull",
+  "license": "MIT"
+}
